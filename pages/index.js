@@ -75,7 +75,6 @@ export default function Home() {
             )
           })}
         </ul>
-        </comunidadesRelationsBoxWrapper>
      </Box>
     </div>
   </MainGrid>
